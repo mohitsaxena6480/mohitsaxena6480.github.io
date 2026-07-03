@@ -1,3 +1,8 @@
+---
+layout: page
+title: Blog Archives
+subtitle: All Yoga Lessons
+---
 # Science of Yoga — Article Archives
 
 Welcome to the complete archival library of the Science of Yoga platform lifecycle.
