@@ -1,4 +1,9 @@
-# SCIENCE OF YOUGA
+---
+layout: page
+title: Science of Yoga
+subtitle: In Minutes
+---
+# SCIENCE OF YOGA
 
 Welcome to Science of Yoga in Minutes. This website explains Science of Yoga in a concise and sequential manner.
 
